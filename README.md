@@ -1,11 +1,13 @@
 # slopcheck
 
-A linter that detects AI slop in your repo. Built with zero AI and zero dependencies.
+**AI writes half your code now. Nobody reads it. slopcheck does.**
 
-Everyone is using AI to write code. Nobody is checking what it leaves behind:
-emoji-studded READMEs, comments that narrate the line below them, `except: pass`
-scattered like confetti, and the word "delve". slopcheck reads your repo the way
-a tired reviewer does, and gives it a score.
+A linter that detects AI slop in your repo — built with zero AI and zero
+dependencies, because it takes a human to catch a machine.
+
+You know the signs: emoji-studded READMEs, comments that narrate the line below
+them, `except: pass` scattered like confetti, and the word "delve". slopcheck
+reads your repo the way a tired reviewer does — and hands it a score.
 
 ```
 $ slopcheck .
